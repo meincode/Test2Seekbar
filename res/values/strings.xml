@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test2Seekbar</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    <string name="PrefCategoryColor">PrefCategoryColor</string>
+    <string name="PrefColor1">Color Setting</string>
+
+    <string name="DlgRgbRed">RED</string>
+    <string name="DlgRgbGreen">GREEN</string>
+    <string name="DlgRgbBlue">BLUE</string>
+
+</resources>

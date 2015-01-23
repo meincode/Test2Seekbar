@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+<PreferenceCategory
+ android:selectable="true"
+ android:enabled="true"
+ android:title="@string/PrefCategoryColor">
+    <com.example.test2seekbar.RgbDialogPreference
+     android:selectable="true"
+     android:enabled="true"
+     android:title="@string/PrefColor1"
+     android:key="col1">
+    </com.example.test2seekbar.RgbDialogPreference>
+</PreferenceCategory>
+</PreferenceScreen>
